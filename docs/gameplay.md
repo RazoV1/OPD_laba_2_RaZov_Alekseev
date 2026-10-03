@@ -1,10 +1,10 @@
-1. Build Settings:
+В проекте используется гравитация (Rigidbody2D)
+В проекте присутствуют следующие префабы:
+CharacterPlatformer - игрок
+Grass - трава
+Lever - рычаг
+TreeBackground - фон с деревьями
 
-Платформы: Windows'
+UI отсутствует
 
-Помимо базовых пакетов Unity, в проекте установлены:
-*Adaptiveperformance
-*Physicsccore2d
-*Tetgen
-*Timelinefoundation
-*Vectorgraphics
+PlayerCharacter: можно изменить hp, double jump, jump strenght и так далее
